@@ -1,0 +1,30 @@
+		good morning to my new abc.txt center 
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+a - apple
+b - bat
+c - cat
+d - dog
+e - egg
+f - fan
+g - gangster
+h - hamburger
+i - iceberg
+j - jackal
+k - kangaroo
+l - lesson
+m - monster
+n - net
+o - owl
+p - pat
+q - queen
+r - ring
+s - slogan
+t - tag
+u - umbrella
+v - van
+w - wimper
+x - x-ray
+y - yacht
+z -zig zag
+
