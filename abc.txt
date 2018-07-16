@@ -23,7 +23,7 @@ s - slogan
 t - tag
 u - umbrella
 v - van
-w - wimper
+w - whimper
 x - x-ray
 y - yacht
 z -zig zag
